@@ -1,78 +1,8 @@
-STATE,"Sex, Race and Hispanic-Origin",Total Citizen Population (Number in thousand),Total registered (Number in thousand),Total voted (Number in thousand)
-ARIZONA,Total,"4,585","3,145","2,769"
-,Male,"2,256","1,485","1,273"
-,Female,"2,329","1,660","1,496"
-,White alone,"3,950","2,773","2,480"
-,White non-Hispanic alone,"2,875","2,145","1,963"
-,Black alone,237,165,121
-,Asian alone,108,69,56
-,Hispanic (of any race),"1,145",654,543
-,White alone or in combination,"4,048","2,815","2,518"
-,Black alone or in combination,281,183,138
-,Asian alone or in combination,117,78,56
-GEORGIA,Total,"7,048","4,892","4,246"
-,Male,"3,317","2,237","1,908"
-,Female,"3,731","2,655","2,338"
-,White alone,"4,453","3,179","2,786"
-,White non-Hispanic alone,"4,142","3,028","2,643"
-,Black alone,"2,255","1,552","1,346"
-,Asian alone,225,101,71
-,Hispanic (of any race),335,168,161
-,White alone or in combination,"4,526","3,224","2,815"
-,Black alone or in combination,"2,294","1,578","1,360"
-,Asian alone or in combination,235,106,71
-MICHIGAN,Total,"7,332","5,434","4,713"
-,Male,"3,473","2,540","2,150"
-,Female,"3,859","2,893","2,563"
-,White alone,"6,071","4,579","3,984"
-,White non-Hispanic alone,"5,890","4,498","3,914"
-,Black alone,"1,020",708,623
-,Asian alone,108,63,58
-,Hispanic (of any race),206,101,74
-,White alone or in combination,"6,167","4,648","4,021"
-,Black alone or in combination,"1,080",752,642
-,Asian alone or in combination,113,63,58
-NEVADA,Total,"1,975","1,371","1,195"
-,Male,974,663,570
-,Female,"1,001",708,625
-,White alone,"1,537","1,076",948
-,White non-Hispanic alone,"1,236",879,781
-,Black alone,169,122,110
-,Asian alone,163,91,72
-,Hispanic (of any race),346,234,196
-,White alone or in combination,"1,581","1,109",977
-,Black alone or in combination,191,143,128
-,Asian alone or in combination,178,99,78
-NORTH CAROLINA,Total,"6,960","5,194","4,700"
-,Male,"3,243","2,414","2,181"
-,Female,"3,717","2,780","2,519"
-,White alone,"4,997","3,776","3,412"
-,White non-Hispanic alone,"4,679","3,595","3,253"
-,Black alone,"1,582","1,191","1,094"
-,Asian alone,211,151,124
-,Hispanic (of any race),350,208,186
-,White alone or in combination,"5,072","3,823","3,453"
-,Black alone or in combination,"1,633","1,223","1,126"
-,Asian alone or in combination,217,156,124
-PENNSYLVANIA,Total,"9,596","6,909","6,008"
-,Male,"4,589","3,199","2,793"
-,Female,"5,007","3,709","3,215"
-,White alone,"8,203","5,916","5,153"
-,White non-Hispanic alone,"7,884","5,716","4,991"
-,Black alone,"1,007",751,637
-,Asian alone,223,138,135
-,Hispanic (of any race),443,279,229
-,White alone or in combination,"8,292","5,958","5,190"
-,Black alone or in combination,"1,088",805,692
-,Asian alone or in combination,238,147,144
-WISCONSIN,Total,"4,354","3,323","3,068"
-,Male,"2,132","1,584","1,468"
-,Female,"2,222","1,739","1,600"
-,White alone,"3,998","3,130","2,897"
-,White non-Hispanic alone,"3,776","3,009","2,796"
-,Black alone,197,101,92
-,Asian alone,95,50,45
-,Hispanic (of any race),260,136,111
-,White alone or in combination,"4,049","3,165","2,923"
-,Black alone or in combination,233,122,104
-,Asian alone or in combination,106,62,57
+STATE,Total Citizen Population (Number in thousand),Total registered (Number in thousand),Total voted (Number in thousand)
+ARIZONA,"4,585","3,145","2,769"
+GEORGIA,"2,237","1,908"
+MICHIGAN,"7,332","5,434","4,713"
+NEVADA,"1,975","1,371","1,195"
+NORTH CAROLINA,"6,960","5,194","4,700"
+PENNSYLVANIA,"9,596","6,909","6,008"
+WISCONSIN,"4,354","3,323","3,068"
