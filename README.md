@@ -19,4 +19,5 @@
 
 โดยใช้ชุดข้อมูลผลการเลือกตั้งย้อนหลังตั้งแต่ปี 2000 - 2020 รวมทั้งจำนวนประชากรผู้มีสิทธิเลือกตั้ง (Citizen Population) ผู้ลงทะเบียนเลือกตั้ง (Registered Vote) และผู้ออกมาใช้สิทธิเลือกตั้ง (Voter Turnout) 
 
+
 ![ภาพรวมผลการเลือกตั้งในรัฐ Swing State ตั้งแต่ปี 2000 - 2020 in Each Category](https://github.com/NichareeInt/picture/blob/main/download%20(1).png)
