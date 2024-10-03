@@ -60,7 +60,6 @@
 หรือรัฐที่สนับสนุนพรรครีพับลิกัน : แอริโซนา (AZ), จอร์เจีย (GA) และนอร์ทแคโรไลนา (NC) เป็นฐานเสียงหลักของพรรครีพับลิกันมาอย่างสม่ำเสมอตั้งแต่ปี 2000 - 2016 และถูกพรรคเดโมแครตเอาชนะได้ในปี 2020 
 
 
-![](https://github.com/NichareeInt/picture/blob/main/image14.png)
 
 ![2_3](https://github.com/user-attachments/assets/a59ac4df-9173-4240-a6af-66f62551d35e)
 
@@ -73,14 +72,14 @@
 ![](https://github.com/NichareeInt/picture/blob/main/image2.png)
 
 
-![](https://github.com/NichareeInt/picture/blob/main/image7.png)
-
 
 
 # Blue State 
 หรือรัฐที่สนับสนุนพรรคเดโมแครต : มิชิแกน (MI), เพนซิลเวเนีย (PA) และวิสคอนซิน (WI) เป็นฐานเสียงหลักของพรรคเดโมแครต และตอกย้ำให้เห็นถึงความนิยมต่อพรรคเดโมแครตยิงขึ้นในปีที่ บารัก โอบามา (2008 - 2012) ก้าวเข้ามาเป็นแคนดิเดตประธานาธิบดี  ในขณะเดียวกันคะแนนเสียงก็ได้ถูกพรรครีพับลิกันแย่งชิงไปได้ในปี 2018 
 
-![](https://github.com/NichareeInt/picture/blob/main/image4.png)
+
+![2_5](https://github.com/user-attachments/assets/3f4978d8-8682-49c7-ae42-f5aca2a887af)
+
 
 	
 # Purple State 
