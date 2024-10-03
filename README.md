@@ -45,23 +45,32 @@
 
 เมื่อเจาะลงไปในแต่ละรัฐ Swing State จะเห็นถึงคะแนนความนิยมต่อพรรคการเมืองในแต่ละรัฐแตกต่างกันไป และสามารถจัดกลุ่มความนิยมในการโหวตแต่ละพรรคการเมืองได้ดังนี้ 
 
-![](https://github.com/NichareeInt/picture/blob/main/image2.png)
-![](https://github.com/NichareeInt/picture/blob/main/image2.png)
-![](https://github.com/NichareeInt/picture/blob/main/image2.png)
+![](https://github.com/NichareeInt/picture/blob/main/image3.png)
+![](https://github.com/NichareeInt/picture/blob/main/image11.png)
+![](https://github.com/NichareeInt/picture/blob/main/image10.png)
 
 
 # Red State 
 หรือรัฐที่สนับสนุนพรรครีพับลิกัน : แอริโซนา (AZ), จอร์เจีย (GA) และนอร์ทแคโรไลนา (NC) เป็นฐานเสียงหลักของพรรครีพับลิกันมาอย่างสม่ำเสมอตั้งแต่ปี 2000 - 2016 และถูกพรรคเดโมแครตเอาชนะได้ในปี 2020 
 
+![](https://github.com/NichareeInt/picture/blob/main/image14.png)
+![](https://github.com/NichareeInt/picture/blob/main/image2.png)
+![](https://github.com/NichareeInt/picture/blob/main/image7.png)
+
+
 # Blue State 
 หรือรัฐที่สนับสนุนพรรคเดโมแครต : มิชิแกน (MI), เพนซิลเวเนีย (PA) และวิสคอนซิน (WI) เป็นฐานเสียงหลักของพรรคเดโมแครต และตอกย้ำให้เห็นถึงความนิยมต่อพรรคเดโมแครตยิงขึ้นในปีที่ บารัก โอบามา (2008 - 2012) ก้าวเข้ามาเป็นแคนดิเดตประธานาธิบดี  ในขณะเดียวกันคะแนนเสียงก็ได้ถูกพรรครีพับลิกันแย่งชิงไปได้ในปี 2018 
+
+![](https://github.com/NichareeInt/picture/blob/main/image4.png)
+
 	
 # Purple State 
 หรือรัฐที่ยังไม่ตัดสินใจ : เนวาดา (NV) เป็นรัฐที่ยังไม่สามารถระบุได้ว่าเป็นรัฐที่สนับสนุนพรรคใด เพราะคะแนนโหวตระหว่างพรรครีพับลิกันและพรรคเดโมแครตก็ขับเขี่ยวสลับกันแพ้ชนะเรื่อยมา 
 
+
 # ได้ชัยชนะใน Swing State แล้วจะได้เป็นแชมป์ระดับชาติไหม ? 
 
-
+![](https://github.com/NichareeInt/picture/blob/main/image16.png)
 	
 	จากกราฟแสดงให้เห็นความสัมพันธ์ระหว่างผลรวมการเลือกตั้งระดับประเทศ National และรัฐ Swing State พบว่ากราฟมีการแปรผันตรงต่อกัน โดยหากปีนั้นๆ พรรคการเมืองใดได้เป็นแชมป์ ก็มักจะได้รับชัยชนะในรัฐ Swing State ด้วย 
 	สรุปได้ว่า ผลการเลือกตั้งในรัฐ Swing State ส่งผลโดยตรงต่อการได้รับชัยชนะระดับชาติ 
@@ -70,10 +79,33 @@
 คาดการณ์จำนวน Voter Register และผู้ออกมาใช้สิทธิ์ในรัฐ Swing State การเลือกตั้งในปี 2024 
 
 
-	ภาพรวมผลการเลือกตั้งในรัฐ Swing State ตั้งแต่ปี 2000 - 2020 ในตอนต้น ที่แสดงให้เห็นว่าจำนวนผลรวมคะแนนเสียงของผู้ออกมาใช้สิทธิเลือกตั้งเพิ่มขึ้นทุกๆ ปีนั้น 
+ภาพรวมผลการเลือกตั้งในรัฐ Swing State ตั้งแต่ปี 2000 - 2020 ในตอนต้น ที่แสดงให้เห็นว่าจำนวนผลรวมคะแนนเสียงของผู้ออกมาใช้สิทธิเลือกตั้งเพิ่มขึ้นทุกๆ ปีนั้น 
+
+![](https://github.com/NichareeInt/picture/blob/main/image9.png)
+
+พบว่าประชาชนผู้มีสิทธิเลือกตั้งเพิ่มขึ้น รวมทั้ง Model คาดการณ์ว่าผู้ Register และ Vote เพิ่มขึ้น ตามจำนวนเทรนด์ประชากรที่เพิ่มขึ้น 
+
+![](https://github.com/NichareeInt/picture/blob/main/image13.png)
+![](https://github.com/NichareeInt/picture/blob/main/image15.png)
+
+และใช้ Model Logistic Reregression ในการ Predict ต่อว่าแต่ละรัฐ Swing State พรรคใดจะเป็นผู้ชนะ  โดยผลปรากฎว่าพรรคที่ชนะในแต่ละรัฐได้แก่ 
+
+![](https://github.com/NichareeInt/picture/blob/main/image6.png)
+
+# Predicted Winning Party 
+1. แอริโซนา (AZ) ผู้ชนะได้แก่ Republican 
+2. จอร์เจีย (GA)  ผู้ชนะได้แก่ Republican
+3. มิชิแกน (MI)  ผู้ชนะได้แก่ Democra
+4. นอร์ทแคโรไลนา (NC)  ผู้ชนะได้แก่ Republican 
+5. เนวาดา (NV) ผู้ชนะได้แก่  Democrat
+6. เพนซิลเวเนีย (PA) ผู้ชนะได้แก่  Democrat
+7. วิสคอนซิน (WI)  ผู้ชนะได้แก่ Democrat
 
 
+โดยมีค่าความแม่นยำ หรือ Accuracy อยู่ที่ 88.89% และมีค่า Confusion Matrix: [[3 0] [1 5]]
 
+# สรุป 
 
-	พบว่าประชาชนผู้มีสิทธิเลือกตั้งเพิ่มขึ้น รวมทั้ง Model คาดการณ์ว่าผู้ Register และ Vote เพิ่มขึ้น ตามจำนวนเทรนด์ประชากรที่เพิ่มขึ้น 
+จากข้อมูลผลการเลือกตั้งในรัฐ Swing State ตั้งแต่ปี 2000 - 2020 พบว่าผลรวมของจำนวนผู้มีสิทธิเลือกตั้งมีเทรนด์เพิ่มขึ้นอย่างสม่ำเสมอ สัมพันธ์กับจำนวนประชากรที่เพิ่มขึ้นทุกๆ ปี 
+โดยสถิติการคว้าชัยรวมในรัฐ Swing State เป็นดังนี้ 
 
