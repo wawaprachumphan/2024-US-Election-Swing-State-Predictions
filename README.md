@@ -62,6 +62,13 @@
 
 ![](https://github.com/NichareeInt/picture/blob/main/image14.png)
 
+![2_3](https://github.com/user-attachments/assets/a59ac4df-9173-4240-a6af-66f62551d35e)
+
+
+<img width="1435" alt="2_4" src="https://github.com/user-attachments/assets/56e1591f-2506-42af-9eda-8adbea1bc112">
+
+![2_7](https://github.com/user-attachments/assets/fd1d0f6c-77f7-4d24-b719-3a67f01e2904)
+
 
 ![](https://github.com/NichareeInt/picture/blob/main/image2.png)
 
