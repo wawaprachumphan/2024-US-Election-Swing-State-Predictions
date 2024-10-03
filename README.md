@@ -155,7 +155,7 @@
 
 
 
-# Predicted Winning Party 
+# PREDICTED WINNING PARTY
 
 1. แอริโซนา (AZ) ผู้ชนะได้แก่ Republican 
 2. จอร์เจีย (GA)  ผู้ชนะได้แก่ Republican
