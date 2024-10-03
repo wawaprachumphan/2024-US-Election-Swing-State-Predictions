@@ -63,12 +63,11 @@
 ![](https://github.com/NichareeInt/picture/blob/main/image14.png)
 
 
-
 ![](https://github.com/NichareeInt/picture/blob/main/image2.png)
 
 
-
 ![](https://github.com/NichareeInt/picture/blob/main/image7.png)
+
 
 
 # Blue State 
