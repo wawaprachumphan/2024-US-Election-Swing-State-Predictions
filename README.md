@@ -206,11 +206,20 @@
 
 ผลการคาดการณ์ครั้งนี้ใช้ข้อมูลจำนวนประชากร ผู้ลงทะเบียนเลือกตั้ง และผู้ออกมาใช้สิทธิเลือกตั้ง มาทำการคาดการณ์ โดยยังไม่ได้หยิบยกเอาปัจจัยแวดล้อมอื่นๆ เช่น นโยบาย การหาเสียง การดีเบต ที่ส่งผลต่อการเลือกตั้งมาวิเคราะห์ โดยผู้อ่านสามารถพิสูจน์ผลการคาดการณ์ไปพร้อมๆ กันได้หลังจากปิดหีบเลือกตั้ง ในวันที่ 5 พฤศจิกายน 2567 นี้  
 
-Analyst By : 
+
+Creators : 
+
 • Nicharee Intharamongkhon
+
 • Wawa Prachumphan
 
+
 Reference : 
+
 • https://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-585.html
+
 • https://usafacts.org/topics/elections/
+
 • https://thestandard.co/us-election-2024
+
+
