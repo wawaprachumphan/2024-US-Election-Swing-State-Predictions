@@ -45,8 +45,9 @@
 
 เมื่อเจาะลงไปในแต่ละรัฐ Swing State จะเห็นถึงคะแนนความนิยมต่อพรรคการเมืองในแต่ละรัฐแตกต่างกันไป และสามารถจัดกลุ่มความนิยมในการโหวตแต่ละพรรคการเมืองได้ดังนี้ 
 
-
-
+![](https://github.com/NichareeInt/picture/blob/main/image2.png)
+![](https://github.com/NichareeInt/picture/blob/main/image2.png)
+![](https://github.com/NichareeInt/picture/blob/main/image2.png)
 
 
 Red State หรือรัฐที่สนับสนุนพรรครีพับลิกัน : แอริโซนา (AZ), จอร์เจีย (GA) และนอร์ทแคโรไลนา (NC) เป็นฐานเสียงหลักของพรรครีพับลิกันมาอย่างสม่ำเสมอตั้งแต่ปี 2000 - 2016 และถูกพรรคเดโมแครตเอาชนะได้ในปี 2020 
