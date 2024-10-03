@@ -1,6 +1,10 @@
 # Swing State Predictions: How AI is Shaping the 2024 US Election
 
+
+
 ![Swing State Predictions 2024](https://github.com/user-attachments/assets/647bdda1-4cd0-4cab-9814-770dd5567c44)
+
+
 
 
 การเลือกตั้งสหรัฐฯ 2024 ที่กำลังจะเกิดขึ้นในวันที่ 5 พฤศจิกายน 2567 นี้ นับว่าเป็นเหตุการณ์สำคัญที่ทั่วโลกให้ความสนใจ 
