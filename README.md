@@ -108,7 +108,9 @@
 
 ![](https://github.com/NichareeInt/picture/blob/main/image9.png)
 
-พบว่าประชาชนผู้มีสิทธิเลือกตั้งเพิ่มขึ้น รวมทั้ง Model คาดการณ์ว่าผู้ Register และ Vote เพิ่มขึ้น ตามจำนวนเทรนด์ประชากรที่เพิ่มขึ้น 
+พบว่าประชาชนผู้มีสิทธิเลือกตั้งเพิ่มขึ้น รวมทั้ง Model คาดการณ์ว่าผู้ Register เพิ่มขึ้น และ Voted ลดลงจากปีก่อนหน้าเล็กน้อย ตามจำนวนเทรนด์ประชากรที่เพิ่มขึ้น
+
+
 
 ![](https://github.com/NichareeInt/picture/blob/main/image13.png)
 ![](https://github.com/NichareeInt/picture/blob/main/image15.png)
