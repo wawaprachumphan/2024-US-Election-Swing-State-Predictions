@@ -42,20 +42,32 @@
 
 # Red State, Blue State or Purple State 
 
-![](image1.gif)
-
 เมื่อเจาะลงไปในแต่ละรัฐ Swing State จะเห็นถึงคะแนนความนิยมต่อพรรคการเมืองในแต่ละรัฐแตกต่างกันไป และสามารถจัดกลุ่มความนิยมในการโหวตแต่ละพรรคการเมืองได้ดังนี้ 
 
-![](https://github.com/NichareeInt/picture/blob/main/image3.png)
-![](https://github.com/NichareeInt/picture/blob/main/image11.png)
-![](https://github.com/NichareeInt/picture/blob/main/image10.png)
+
+![](https://github.com/NichareeInt/picture/blob/main/image3.jpg)
+
+
+
+![](https://github.com/NichareeInt/picture/blob/main/image11.jpg)
+
+
+
+![](https://github.com/NichareeInt/picture/blob/main/image10.jpg)
 
 
 # Red State 
 หรือรัฐที่สนับสนุนพรรครีพับลิกัน : แอริโซนา (AZ), จอร์เจีย (GA) และนอร์ทแคโรไลนา (NC) เป็นฐานเสียงหลักของพรรครีพับลิกันมาอย่างสม่ำเสมอตั้งแต่ปี 2000 - 2016 และถูกพรรคเดโมแครตเอาชนะได้ในปี 2020 
 
+
 ![](https://github.com/NichareeInt/picture/blob/main/image14.png)
+
+
+
 ![](https://github.com/NichareeInt/picture/blob/main/image2.png)
+
+
+
 ![](https://github.com/NichareeInt/picture/blob/main/image7.png)
 
 
