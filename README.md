@@ -69,8 +69,6 @@
 ![2_7](https://github.com/user-attachments/assets/fd1d0f6c-77f7-4d24-b719-3a67f01e2904)
 
 
-![](https://github.com/NichareeInt/picture/blob/main/image2.png)
-
 
 
 
