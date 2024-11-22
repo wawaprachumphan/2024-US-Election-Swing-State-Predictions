@@ -31,6 +31,7 @@
 ![ภาพรวมผลการเลือกตั้งในรัฐ Swing State ตั้งแต่ปี 2000 - 2020 in Each Category](https://github.com/NichareeInt/picture/blob/main/download%20(1).png)
 
 
+![Uploading Screenshot 2567-11-22 at 17.17.39.png…]()
 
 
 # ภาพรวมผลการเลือกตั้งในรัฐ Swing State ตั้งแต่ปี 2000 - 2020 
